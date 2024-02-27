@@ -1,7 +1,7 @@
 {
-    "name": "knpuniversity/oauth2-client-bundle",
+    "name": "tacman/oauth2-client-bundle",
     "type": "symfony-bundle",
-    "description": "Integration with league/oauth2-client to provide services",
+    "description": "knpuniversity's Integration with league/oauth2-client to provide services, with https hack",
     "keywords": ["oauth", "oauth2"],
     "homepage": "https://symfonycasts.com",
     "license": "MIT",

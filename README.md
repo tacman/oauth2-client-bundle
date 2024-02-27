@@ -1,3 +1,11 @@
+# FORK!
+
+This fork is being republished as its own package because I can't figure out
+how to install my patch.  I use it internally, but can't wait until I can delete this
+and use the real bundle at knpuniversity/oauth2-client-bundle
+
+You probably shouldn't use this.
+
 # OAuth / Social Integration for Symfony: KnpUOAuth2ClientBundle
 
 Easily integrate with an OAuth2 server (e.g. Facebook, GitHub) for:

@@ -40,6 +40,8 @@ class ProviderFactory
             $redirectUri = $this->generator
                 ->generate($redirectUri, $redirectParams, UrlGeneratorInterface::ABSOLUTE_URL);
             $redirectUri = str_replace('http:','https:', $redirectUri);
+            // or 'https:' . $this->generateUrl($routeName, $parameters, 'network')
+
 
             $options['redirectUri'] = $redirectUri;
         }
